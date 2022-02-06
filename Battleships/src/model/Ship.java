@@ -8,7 +8,7 @@ public class Ship {
 	}
 
 	public void setVertical(boolean isVertical) {
-		this.isVertical = isVertical;
+		this.isVertical = isVertical; //Test
 	}
 
 }
